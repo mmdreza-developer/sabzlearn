@@ -6,7 +6,7 @@ import { Link } from "react-router-dom"
 import { HiUser, HiUserAdd } from "react-icons/hi"
 import { FaLockOpen } from "react-icons/fa"
 import { MdEmail } from "react-icons/md"
-import { RxDotFilled } from "react-icons/Rx"
+import { RxDotFilled } from "react-icons/rx"
 import Input from '../../components/Input/Input'
 import Button from '../../components/Button/Button'
 import { requiredValidator, emailValidator, maxValidator, minValidator } from '../../components/Validators/rules'
