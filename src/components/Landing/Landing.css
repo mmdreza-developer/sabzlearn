@@ -1,0 +1,7 @@
+.landing {
+    background-image: url("../images/background_landing.jfif");
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    padding: 4rem 0;
+}
